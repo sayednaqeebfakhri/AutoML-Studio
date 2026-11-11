@@ -1,0 +1,13 @@
+
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+shap
+reportlab
+openpyxl
+joblib
+jupyter
+ipykernel
